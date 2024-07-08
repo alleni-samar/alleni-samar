@@ -1,7 +1,8 @@
-Hey hey 👋🏻 i'm Houayd
+Hey there👋🏻 i'm Samar
 I study computer science
-I have a keen interest in new technologies and a great passion for the conception and development of web applications. Specifically, I specialize in frontend web development and take pride in creating visually appealing designs.😊
+I am passionate about new technologies and a great passion for the conception and development of web application.
+Specializing in fullstack  web development with a focus on creating visually appealing designs.😊
 
 ❤️🤍 I'm based in Tunisia.
-✉️ You can contact me at houayda.ouasli2001@gmail.com.
+✉️ You can contact me at samaralleni29@gmail.com.
 🫱🏻‍🫲🏼 I'm open to collaborating on a open source project.
