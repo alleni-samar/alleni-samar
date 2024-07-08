@@ -5,4 +5,5 @@ Specializing in fullstack  web development with a focus on creating visually app
 
 ❤️🤍 I'm based in Tunisia.
 ✉️ You can contact me at samaralleni29@gmail.com.
+
 🫱🏻‍🫲🏼 I'm open to collaborating on a open source project.
