@@ -1,4 +1,4 @@
-Hey there👋🏻 i'm Samar
+<h1>Hey there👋🏻 i'm Samar</h1>
 I study computer science
 I am passionate about new technologies and a great passion for the conception and development of web application.
 Specializing in fullstack  web development with a focus on creating visually appealing designs.😊
