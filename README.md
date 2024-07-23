@@ -1,4 +1,4 @@
-# Hi there, I'm [Samar Alleni] 👋
+# Hi there, I'm Samar Alleni 👋
 
 ## About Me
 
@@ -7,7 +7,9 @@ I am a computer science student based in Tunisia, with a great passion for new t
 ❤️🤍
 
 - 🌍 I'm based in Tunisia
-- 📧 You can contact me at samaralleni29@gmail.com
+- 📧 You can contact me at :
+-  samaralleni29@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenisamar)
 - 🤝 I'm open to collaborating on open-source projects
 
 ## Skills
@@ -32,6 +34,9 @@ I am a computer science student based in Tunisia, with a great passion for new t
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 
+## Get in Touch
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenisamar)
 
 
 
