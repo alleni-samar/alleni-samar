@@ -7,9 +7,7 @@ I am a computer science student based in Tunisia, with a great passion for new t
 ❤️🤍
 
 - 🌍 I'm based in Tunisia
-- 📧 You can contact me at :
--  samaralleni29@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenisamar)
+- 📧 You can contact me at samaralleni29@gmail.com
 - 🤝 I'm open to collaborating on open-source projects
 
 ## Skills
