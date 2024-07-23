@@ -1,6 +1,4 @@
-# Hi there, I'm [Your Name] 👋
-
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+# Hi there, I'm [Samar Alleni] 👋
 
 ## About Me
 
@@ -26,12 +24,13 @@ I am a computer science student based in Tunisia, with a great passion for new t
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
 - **Database:**
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 - **Tools:**
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
 
 
 
