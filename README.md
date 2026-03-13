@@ -21,7 +21,6 @@ I am a computer science student based in Tunisia, with a great passion for new t
   ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
 
 - **Backend:**
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
