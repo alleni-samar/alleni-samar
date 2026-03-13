@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a computer science student based in Tunisia, with a great passion for new technologies and the conception and development of web applications. I specialize in fullstack web development, focusing on creating visually appealing designs.😊
+I am a computer engineering student based in Tunisia, with a great passion for new technologies and the conception and development of web applications. I specialize in fullstack web development, focusing on creating visually appealing designs.😊
 
 ❤️🤍
 
