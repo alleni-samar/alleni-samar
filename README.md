@@ -19,11 +19,18 @@ I am a computer science student based in Tunisia, with a great passion for new t
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
   ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
+
 - **Backend:**
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
 - **Database:**
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
 - **Tools:**
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
