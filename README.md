@@ -40,6 +40,8 @@ I enjoy building intelligent and scalable web applications, analyzing data to so
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?logo=timescale&logoColor=black)
 
+
+
 - **Tools:**
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
