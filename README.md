@@ -2,11 +2,9 @@
 
 ## About Me
 
-I am a computer engineering student based in Tunisia, with a great passion for new technologies and the conception and development of web applications. I specialize in fullstack web development, focusing on creating visually appealing designs.😊
+I am a Computer Engineering student based in Tunisia, passionate about Data Science, Artificial Intelligence, and Full-Stack Web Development.
+I enjoy building intelligent and scalable web applications, analyzing data to solve real-world problems, and continuously exploring emerging technologies to enhance my technical skills.
 
-❤️🤍
-
-- 🌍 I'm based in Tunisia
 - 📧 You can contact me at samaralleni29@gmail.com
 - 🤝 I'm open to collaborating on open-source projects
 
